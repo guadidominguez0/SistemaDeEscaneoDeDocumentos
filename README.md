@@ -31,8 +31,6 @@ Este proyecto es una herramienta de automatización integral que utiliza **Googl
    ```javascript
    const ID_CARPETA_FACTURAS = "TU_ID_CARPETA_FACTURAS";
    const ID_CARPETA_TICKETS = "TU_ID_CARPETA_TICKETS";
-```
-
 
 ### 3. Seguridad y API
 
