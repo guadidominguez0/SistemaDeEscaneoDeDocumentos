@@ -60,5 +60,3 @@ Este proyecto es una herramienta de automatización integral que utiliza **Googl
 
 * El script incluye lógica de *exponential backoff* para reintentar automáticamente peticiones fallidas.
 * **Seguridad:** Nunca compartas tu API Key ni subas este proyecto a un repositorio público con la clave escrita en el código; utiliza siempre `PropertiesService`.
-
-```
